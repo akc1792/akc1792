@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Aditya kumar
-- 👀 I’m a full-stack Software Developer at Xoxoday
+- 👀 I’m a full-stack Software Developer at Synapsica
 - 🌱 I've a passion for learning new skills and technologies.
 
 <!---
